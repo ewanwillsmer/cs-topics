@@ -54,7 +54,7 @@ myData["Xander"] = "29";
 myData["Sean"] = "27";
 ```
 
-This time, if I was trying to find out Ewan's age I would only need to use
+This time, if I was trying to find out Ewan's age I would only need to use:
 
 ```javascript
 var person = "Ewan";
@@ -62,4 +62,4 @@ var person = "Ewan";
 alert(myData[person]);
 ```
 
-Hashtables work by finding the exact location your value is stored and returning that value instantaneously or nearly instantaneously
+Hashtables work by finding the exact location your value is stored and returning that value instantaneously or nearly instantaneously.
